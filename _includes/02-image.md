@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Akaash Dravid](https://github.com/Aksky16/markdown-portfolio/issues/4#issue-1089900703)
