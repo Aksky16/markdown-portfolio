@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+List of all time favourite things
+* Spicy food
+* Petrichor
+* Exploring new places
+* Bird Watching
+* Music
